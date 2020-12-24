@@ -1,6 +1,5 @@
 # SPAGSHELL
-simple-c-shell
-==============
+
 Implementation of a basic LINUX shell in C.
 
 Features
